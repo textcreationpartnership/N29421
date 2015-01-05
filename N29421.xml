@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:039177_0000_10141C066F81FCC0"/>
-            <pb facs="tcp:039177_0001_10141C0983FB6CA8" rendition="simple:additions"/>
+            <pb facs="unknown:039177_0000_10141C066F81FCC0"/>
+            <pb facs="unknown:039177_0001_10141C0983FB6CA8"
+                rendition="simple:additions"/>
             <p>
                <hi>WHereas the</hi> Lawes <hi>Publiſhed by the</hi> Honoured General Court, <hi>Lib.</hi> 1. <hi>Pag.</hi> 76. <hi>Sect.</hi> 3. Do Require all Townes from time to time to diſpoſe of Single Perſons and inmates within their Towns to Service, or otherwiſe. And in <hi>Pag.</hi> 16. <hi>Tit. Children and Youth,</hi> It is Required of the Select men, That they ſee that all Children and Youth under family Government, be taught to Read perfectly the Engliſh Tongue, have knowledge of the Capital Lawes, and be taught ſome Orthodox Catechiſme, and that they be brought up to ſome honeſt imployment profitable to themſelves and the Common Wealth, and in caſe of neglect on the part of the family Governours, after Admonition given them, the ſaid Select men are Required with the help of two Magiſtrates, or next Court of that Shire, to take ſuch Children or Apprentices from them, and place them forth with ſuch as will look more ſtrictly to them.</p>
             <p>
